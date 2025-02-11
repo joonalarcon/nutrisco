@@ -18,7 +18,7 @@ Aplicación móvil para gestión de ingresos fríos 🧊 y salidas frías ⛱️
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-usuario/nutrisco-app.git
+git clone https://github.com/joonalarcon/nutrisco-app.git
 cd nutrisco-app
 
 # 2. Instalar dependencias
