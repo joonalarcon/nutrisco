@@ -5,17 +5,9 @@
 
 Aplicación móvil para gestión de ingresos fríos 🧊 y salidas frías ⛱️. Desarrollada con React Native y Expo para una experiencia multiplataforma.
 
-## 🚀 Características Principales
 
-- **Autenticación intuitiva**  
-  Registro seguro de usuarios con nombre y contraseña.
-- **Interfaz dinámica**  
-  Diseño oscuro moderno con animaciones fluidas.
-- **Acciones en tiempo real**  
-  - Botón interactivo de Ingreso Frío (cambia a ✅ al presionar)
-  - Botón de Salida Fría con confirmación visual
-- **Icono vivo**  
-  Ícono central que cambia de color cada segundo (🌈 efecto arcoíris)
+
+
 
 ## 📦 Instalación
 
@@ -34,3 +26,6 @@ npm install
 
 # 3. Iniciar servidor
 npm start
+
+#4. otra opcion para iniciar 
+npm run web
