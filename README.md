@@ -1,5 +1,7 @@
 # Nutrisco App 📱🤖🍎
 
+![reactNativeGif](https://ncoded-cms-landing.s3.us-east-2.amazonaws.com/react_native_ncoded_solutins_9876e96fae.gif)
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
