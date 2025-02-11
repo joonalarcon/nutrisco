@@ -1,4 +1,4 @@
-# Nutrisco App 📱🤖🍎
+no# Nutrisco App 📱🤖🍎
 
 
 
@@ -14,6 +14,8 @@ Aplicación móvil para gestión de ingresos fríos 🧊 y salidas frías ⛱️
 
 
 ## 📦 Instalación
+
+![](https://miro.medium.com/v2/resize:fit:952/format:webp/1*GJH5UaZjAV8Ql_vZcmMy-Q.png)
 
 ### Requisitos Previos
 - Node.js v16+
